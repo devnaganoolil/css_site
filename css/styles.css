@@ -1,0 +1,157 @@
+a
+{
+  font-family: 'Nunito', sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+a:hover
+{
+  color: #EAF6F6;
+}
+body
+{
+  color: #40514E;
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+h1
+{
+  font-size: 5.625rem;
+  margin: 50px auto 0 auto;
+  line-height: 1;
+  font-family: 'Dancing Script', cursive;
+  color: #1572A1;
+}
+h2
+{
+  font-size: 2.5rem;
+  font-family: 'Nunito', sans-serif;
+  color: #1572A1;
+  font-weight: normal;
+  padding-bottom: 10px;
+}
+h3
+{
+  font-family: 'Nunito', sans-serif;
+  color: #5D8BF4;
+}
+hr
+{
+  border: dotted #EAF6F6 6px;
+  border-bottom: none;
+  width: 4%;
+  margin: 100px auto;
+  color: #FFFFFF;
+}
+p
+{
+  line-height: 2;
+}
+
+.btn
+{
+ padding: 1.3em 3em;
+ font-size: 12px;
+ text-transform: uppercase;
+ letter-spacing: 2.5px;
+ font-weight: 500;
+ color: #000;
+ background-color: #fff;
+ border: none;
+ border-radius: 45px;
+ box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.1);
+ transition: all 0.3s ease 0s;
+ cursor: pointer;
+ outline: none;
+}
+.btn:hover
+{
+ background-color: #2EE59D;
+ box-shadow: 0px 15px 20px rgba(46, 229, 157, 0.4);
+ color: #fff;
+ transform: translateY(-7px);
+}
+.btn:active
+{
+ transform: translateY(-1px);
+}
+.contact-message
+{
+  width: 40%;
+  margin: 40px auto 60px;
+}
+.circlepic
+{
+  width: 25%;
+  float: right;
+}
+
+.computerpic
+{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+.copyright
+{
+  font-size: 0.75rem;
+  padding: 20px 0;
+}
+
+.intro
+{
+  width: 40%;
+  margin: auto;
+}
+.problempic
+{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+.top
+{
+  background-color: #E4FBFF;
+  position: relative;
+  padding-top: 100px;
+}
+.middle
+{
+  margin: 100px 0;
+}
+.bottom
+{
+  background-color: #E4FBFF;
+  padding: 50px 0 20px;
+}
+.bottom-cloud
+{
+  position: absolute;
+  left: 350px;
+  bottom: 300px;
+}
+.skill-row
+{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+}
+.top-cloud
+{
+  position: absolute;
+  right: 500px;
+  top: 50px;
+}
+.airplane
+{
+  position: absolute;
+  right: 300px;
+}
+.sun
+{
+  position: absolute;
+  left: 40px;
+  top: 20px;
+}
